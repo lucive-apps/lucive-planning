@@ -1,0 +1,40 @@
+{
+  "name": "lucive",
+  "version": "0.1.1",
+  "description": "Plan your days, weeks, and years with Lucive: read the plan, add and complete tasks, set intents, and check the daily scratchpad.",
+  "author": {
+    "name": "Lucive",
+    "email": "support@lucive.app",
+    "url": "https://lucive.app"
+  },
+  "homepage": "https://lucive.app",
+  "license": "UNLICENSED",
+  "keywords": [
+    "planning",
+    "tasks",
+    "productivity",
+    "journal",
+    "goals"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Lucive",
+    "shortDescription": "Plan your days, weeks, and years with Lucive",
+    "longDescription": "Lucive is a private journal with an agent-ready planning layer. This plugin connects your Lucive Planning account so ChatGPT can read your plan for today, this week, this month, or this year, add and complete tasks, update intents, and check your daily scratchpad. Your Journal stays end-to-end encrypted on your devices and is never part of this connection.",
+    "developerName": "Lucive",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://lucive.app",
+    "privacyPolicyURL": "https://lucive.app/privacy",
+    "termsOfServiceURL": "https://lucive.app/terms",
+    "defaultPrompt": "Read my Lucive plan for today or this week, add or complete tasks, or update my intent",
+    "brandColor": "#CAA278",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "screenshots": []
+  }
+}

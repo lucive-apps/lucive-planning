@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "lucive-planning": {
+      "type": "http",
+      "url": "https://mcp.lucive.app/api/mcp",
+      "oauth_resource": "https://mcp.lucive.app/api/mcp"
+    }
+  }
+}

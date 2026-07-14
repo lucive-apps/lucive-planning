@@ -1,0 +1,20 @@
+{
+  "name": "lucive",
+  "interface": {
+    "displayName": "Lucive"
+  },
+  "plugins": [
+    {
+      "name": "lucive",
+      "source": {
+        "source": "local",
+        "path": "./lucive"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
