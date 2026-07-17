@@ -1,7 +1,7 @@
 {
   "name": "lucive",
   "description": "Plan your days, weeks, and years with Lucive: read the plan, add and complete tasks, set intents, and check the daily scratchpad.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Lucive",
     "email": "support@lucive.app",

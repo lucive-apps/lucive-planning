@@ -35,7 +35,9 @@ week/month/year period (a commitment), or the backlog.
 ## Useful patterns
 
 - Morning brief: `read_plan` today + week, then summarize scheduled tasks,
-  intent, and anything on the scratchpad worth acting on.
+  intent, and anything on the scratchpad worth acting on. After a weekend or
+  a gap, call `read_scratchpad` with `lookbackDays` (3 covers a weekend) so
+  notes from earlier days are not missed.
 - Weekly reset: `read_plan` week, `list_tasks` backlog, propose which backlog
   items become this week's commitments, create them only after the user
   agrees.

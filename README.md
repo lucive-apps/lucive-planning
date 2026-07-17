@@ -13,7 +13,7 @@ signed-in device.
 ## Install in Claude
 
 ```
-/plugin marketplace add nickrroberts/lucive-planning
+/plugin marketplace add lucive-apps/lucive-planning
 /plugin install lucive@lucive
 ```
 
@@ -23,7 +23,7 @@ with your email and the 6-digit code Lucive sends you.
 ## Install in ChatGPT / Codex
 
 ```
-codex plugin marketplace add nickrroberts/lucive-planning
+codex plugin marketplace add lucive-apps/lucive-planning
 codex mcp login lucive-planning
 ```
 
