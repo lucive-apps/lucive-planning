@@ -43,3 +43,10 @@ week/month/year period (a commitment), or the backlog.
   agrees.
 - Capture: quick "add X to my list" requests go to the backlog unless the
   user names a day or horizon.
+- Process the scratchpad: `read_scratchpad` (no arguments = the global
+  inbox), then propose the breakdown - which lines become tasks and where
+  they land (today, a horizon, or the backlog) and which are just notes.
+  Create the tasks, then `clear_scratchpad` (it archives the content to a
+  dated snapshot automatically - never blank it via update_scratchpad), and
+  close by summarizing exactly what was created and where. Never clear
+  before the derived items exist.
