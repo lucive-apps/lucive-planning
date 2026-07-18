@@ -43,6 +43,10 @@ week/month/year period (a commitment), or the backlog.
   agrees.
 - Capture: quick "add X to my list" requests go to the backlog unless the
   user names a day or horizon.
+- Review recent days: `read_recent_days` returns the last week (ending
+  yesterday) - what was completed each day and what was scheduled but is
+  still open. Reach for it in weekly reviews, after gaps, and whenever the
+  user asks what got done or what slipped.
 - Process the scratchpad: `read_scratchpad` (no arguments = the global
   inbox), then propose the breakdown - which lines become tasks and where
   they land (today, a horizon, or the backlog) and which are just notes.
