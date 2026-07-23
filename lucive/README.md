@@ -2,7 +2,8 @@
 
 Connects a Lucive Planning account (https://lucive.app) to Claude and
 ChatGPT/Codex. Tasks, intents, and scratchpads; the Journal is never part of
-the connection.
+the connection. Horizon backlogs remain uncommitted until a task is promoted
+into the current dated week, month, or year.
 
 One directory, both formats: `.claude-plugin/plugin.json` (Claude) and
 `.codex-plugin/plugin.json` (ChatGPT/Codex) wrap the same skill and the same

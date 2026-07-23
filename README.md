@@ -2,7 +2,8 @@
 
 Connect your [Lucive](https://lucive.app) Planning account to Claude and
 ChatGPT. Read your plan for today, this week, this month, or this year; add,
-complete, and reschedule tasks; update intents; check your daily scratchpad.
+complete, and reschedule tasks; keep uncommitted week/month/year backlogs
+separate from dated commitments; update intents; check your daily scratchpad.
 
 Your Journal is not part of this connection. It stays end-to-end encrypted on
 your devices, with no account attached, and cannot be accessed by any agent.
